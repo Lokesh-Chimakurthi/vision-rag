@@ -2,7 +2,7 @@
 name = "Vision-RAG"
 description = "Vision Rag with ColPali reranker and Qdrant"
 readme = "README.md"
-requires-python = "==3.12.3"
+requires-python = ">=3.10"
 dependencies = [
     "colpali-engine>=0.3.5",
     "einops>=0.8.0",
