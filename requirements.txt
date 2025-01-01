@@ -1,0 +1,11 @@
+colpali-engine>=0.3.5
+einops>=0.8.0
+google-generativeai>=0.8.3
+pillow>=10.4.0
+pymupdf>=1.25.1
+qdrant-client>=1.12.2
+requests>=2.32.3
+sentence-transformers>=3.3.1
+timm>=1.0.12
+torch>=2.5.1
+streamlit>=1.41.1
